@@ -1,0 +1,753 @@
+109 -> Axon_Enterprise
+
+275 -> American_Basketball_Association_(2000%E2%80%93present)
+
+62 -> Abiomed
+
+4121 -> Airbnb
+
+53 -> Arch_Capital_Group
+
+22 -> Acadia_Healthcare
+
+63 -> ACI_Worldwide
+
+10 -> ACN
+
+4 -> Acura_Pharmaceuticals
+
+1496 -> Adobe_Inc.
+
+101 -> Adelphia_Communications_Corporation
+
+50 -> Adient
+
+33 -> Adaptec
+
+1054 -> Autodesk
+
+36 -> ADTRAN
+
+14 -> Advanta
+
+639 -> Aegean_Airlines
+
+271 -> Air_France%E2%80%93KLM
+
+22 -> Agios_Pharmaceuticals
+
+585 -> American_International_Group
+
+67 -> Ajanta_Pharma
+
+92 -> Aerojet_Rocketdyne_Holdings
+
+184 -> Align_Technology
+
+59 -> Allegion
+
+354 -> Ally_Financial
+
+80 -> Alnylam_Pharmaceuticals
+
+108 -> Altera
+
+94 -> Alexion_Pharmaceuticals
+
+174 -> Amcor
+
+559 -> AMC_Networks
+
+1456 -> Advanced_Micro_Devices
+
+360 -> Amgen
+
+34 -> Amylin_Pharmaceuticals
+
+417 -> TD_Ameritrade
+
+21865 -> Amazon_(company)
+
+51 -> Antofagasta_plc
+
+32 -> American_Outdoor_Brands
+
+51 -> Apollo_Education_Group
+
+392 -> Ark_Invest
+
+220 -> Aramark
+
+106 -> Howmet_Aerospace
+
+71 -> Altium
+
+47 -> Adtalem_Global_Education
+
+46 -> Air_Transport_Services_Group
+
+1287 -> Activision_Blizzard
+
+259 -> ATI_Technologies
+
+287 -> Auto_Trader_Group
+
+317 -> Aviva
+
+368 -> Broadcom_Inc.
+
+21 -> Avanos_Medical
+
+446 -> Avast
+
+56 -> Avantor
+
+239 -> Avaya
+
+403 -> Axa
+
+109 -> Axon_Enterprise
+
+2122 -> BAE_Systems
+
+671 -> BASF
+
+333 -> Bed_Bath_%26_Beyond
+
+190 -> Bath_%26_Body_Works,_Inc.
+
+92 -> Barratt_Developments
+
+250 -> Brown%E2%80%93Forman
+
+42 -> BeiGene
+
+93 -> BearingPoint
+
+930 -> Baidu
+
+208 -> Biogen
+
+61 -> Bill.com
+
+648 -> Booking_Holdings
+
+42 -> BankUnited
+
+60 -> British_Land
+
+69 -> BioMarin_Pharmaceutical
+
+283 -> BioNTech
+
+65 -> Bunzl
+
+2423 -> BP
+
+684 -> Burberry
+
+368 -> Broadcom_Inc.
+
+4721 -> Berkshire_Hathaway
+
+72 -> Bruker
+
+33 -> Santander_Brasil
+
+871 -> BT_Group
+
+320 -> Burlington_(department_store)
+
+44 -> Bellway
+
+415 -> Beyond_Meat
+
+805 -> BuzzFeed
+
+62 -> Cable_One
+
+9 -> Caldera_International
+
+191 -> Casey%27s
+
+2 -> Colonial_Bancgroup
+
+369 -> Circuit_City
+
+115 -> Ceridian
+
+449 -> Cadence_Design_Systems
+
+14 -> Cedar_Realty_Trust
+
+81 -> Celgene
+
+33 -> Cognex_Corporation
+
+856 -> Chegg
+
+218 -> Check_Point
+
+704 -> Charter_Communications
+
+90 -> Ciena
+
+116 -> CIT_Group
+
+88 -> CoreLogic
+
+203 -> Clarivate
+
+2876 -> Comcast
+
+57 -> Conexant
+
+38 -> Coherent,_Inc.
+
+30 -> CyrusOne
+
+95 -> Wolfspeed
+
+940 -> Crocs
+
+150 -> Cirrus_Logic
+
+310 -> CrowdStrike
+
+4 -> China_Sun_Group_High-Tech
+
+37 -> Citadel_Broadcasting
+
+107 -> Catalent
+
+231 -> Corteva
+
+451 -> Citrix_Systems
+
+136 -> CoreCivic
+
+380 -> Deckers_Outdoor_Corporation
+
+91 -> Delhaize_Group
+
+1699 -> Dell
+
+1142 -> Discovery,_Inc.
+
+333 -> DraftKings
+
+91 -> Delphi_Technologies
+
+475 -> Dollar_Tree
+
+299 -> DocuSign
+
+11 -> DTV
+
+4718 -> Electronic_Arts
+
+6347 -> EBay
+
+10 -> ElectroCore
+
+71 -> Edison_International
+
+997 -> Kodak
+
+137 -> Enphase_Energy
+
+1916 -> Enron
+
+238 -> Equinix
+
+85 -> Equity_Residential
+
+233 -> ITT_Technical_Institute
+
+19 -> Electro_Scientific_Industries
+
+13 -> Esperion_Therapeutics
+
+3346 -> Empire_State_Building
+
+163 -> Express_Scripts
+
+2003 -> Etsy
+
+39 -> Eurobank_Ergasias
+
+50 -> Evergy
+
+18 -> East_West_Bancorp
+
+84 -> Expeditors_International
+
+1039 -> Expedia_Group
+
+59 -> Ferguson_plc
+
+45 -> Folli_Follie
+
+877 -> Fiat_Chrysler_Automobiles
+
+399 -> Fiserv
+
+256 -> Fifth_Third_Bank
+
+16 -> Fluidigm
+
+426 -> Flutter_Entertainment
+
+193 -> 1-800-Flowers.com,_Inc.
+
+493 -> Funko
+
+488 -> Fannie_Mae
+
+631 -> Foot_Locker
+
+852 -> 21st_Century_Fox
+
+127 -> First_Solar
+
+127 -> Fastly
+
+876 -> Fortinet
+
+227 -> Frontier_Communications
+
+25 -> Fulton_Financial_Corporation
+
+49 -> Foster_Wheeler
+
+2242 -> General_Electric
+
+13 -> GEK_Terna
+
+56568 -> Google
+
+357 -> Gilead_Sciences
+
+88 -> Glanbia
+
+19 -> GlassBridge_Enterprises
+
+28 -> Globus_Medical
+
+77 -> Motors_Liquidation_Company
+
+26 -> Gentex_(automotive_manufacturer)
+
+3409 -> Alphabet_Inc.
+
+37 -> Gottschalks
+
+610 -> GoPro
+
+447 -> Groupon
+
+4 -> GuestLogix
+
+117 -> Hain_Celestial_Group
+
+178 -> Huntington_Bancshares
+
+148 -> Helen_of_Troy_Limited
+
+101 -> Hargreaves_Lansdown
+
+70 -> Halma
+
+19 -> Home_BancShares
+
+30 -> HealthEquity
+
+60 -> Hubbell_Incorporated
+
+79 -> Hub_Group
+
+2528 -> Hyundai_Motor_Company
+
+41 -> ICU_Medical
+
+35 -> InterDigital
+
+51 -> IndyMac
+
+35 -> OneWest_Bank
+
+106 -> Idexx_Laboratories
+
+251 -> Illumina,_Inc.
+
+47 -> ImClone_Systems
+
+74 -> Incyte
+
+2833 -> Infosys
+
+85 -> Ingredion
+
+2398 -> Intel
+
+41 -> Innospec
+
+84 -> Intertek
+
+392 -> Ark_Invest
+
+39 -> JBG_Smith
+
+164 -> J._B._Hunt
+
+105 -> J2_Global
+
+651 -> JD_Sports
+
+80 -> Jack_Henry_%26_Associates
+
+122 -> Johnson_Matthey
+
+444 -> Jumia
+
+1246 -> Johnson_%26_Johnson
+
+420 -> Juniper_Networks
+
+310 -> Wiley_(publisher)
+
+299 -> CarMax
+
+1559 -> Konami
+
+846 -> Reckitt
+
+263 -> Liberty_Global
+
+134 -> Lear_Corporation
+
+2461 -> Lehman_Brothers
+
+1129 -> Levi_Strauss_%26_Co.
+
+47 -> Littelfuse
+
+148 -> Legal_%26_General
+
+18 -> Ligand_Pharmaceuticals
+
+26 -> LivaNova
+
+435 -> Lloyds_Banking_Group
+
+16 -> Lineo
+
+7946 -> LinkedIn
+
+79 -> Geeknet
+
+252 -> Lam_Research
+
+187 -> London_Stock_Exchange_Group
+
+45 -> Landstar_System
+
+384 -> Live_Nation_Entertainment
+
+92 -> Masimo
+
+841 -> McAfee
+
+1509 -> Mondelez_International
+
+106 -> Medidata_Solutions
+
+25 -> Metka
+
+506 -> MF_Global
+
+131 -> MegaFon
+
+25 -> MKS_Instruments
+
+74 -> MarketAxess
+
+209 -> MillerKnoll
+
+80 -> Mondi
+
+37 -> Monro_Muffler_Brake
+
+369 -> Miniso
+
+424 -> Monster_Beverage
+
+44 -> Monolithic_Power_Systems
+
+49 -> Mercury_Systems
+
+8 -> MSFT
+
+77 -> Motors_Liquidation_Company
+
+29 -> MicroVision,_Inc.
+
+588 -> Midway_Games
+
+28 -> Mytilineos_Holdings
+
+10544 -> Apple_Inc.
+
+5 -> CALD
+
+9 -> Caldera_International
+
+28 -> CallidusCloud
+
+225 -> Corel
+
+3429 -> IBM
+
+34 -> PSOS_(real-time_operating_system)
+
+16 -> Lineo
+
+9118 -> Microsoft
+
+314 -> Novell
+
+733 -> Red_Hat
+
+17 -> Tarantella,_Inc.
+
+91 -> Wind_River_Systems
+
+156 -> National_Instruments
+
+92 -> Navient
+
+452 -> Nasdaq,_Inc.
+
+44 -> Nordson_Corporation
+
+27249 -> Netflix
+
+140 -> NFI_Group
+
+221 -> National_Grid_plc
+
+467 -> NortonLifeLock
+
+354 -> Nielsen_Holdings
+
+2762 -> Nortel
+
+2162 -> Nissan
+
+164 -> NetScout_Systems
+
+4736 -> Nintendo
+
+36 -> NuVasive
+
+2729 -> Boeing
+
+3224 -> JPMorgan_Chase
+
+16 -> Lineo
+
+2020 -> Southwest_Airlines
+
+5086 -> Nike,_Inc.
+
+95 -> Ocado_Group
+
+225 -> Olympus_Corporation
+
+56 -> OCZ
+
+93 -> Old_Dominion_Freight_Line
+
+193 -> Ollie%27s_Bargain_Outlet
+
+33 -> Odyssey_Marine_Exploration
+
+3840 -> Oracle_Corporation
+
+7 -> OvaScience
+
+63 -> Bank_OZK
+
+158 -> Paychex
+
+37 -> Healthpeak_Properties
+
+1537 -> Palantir_Technologies
+
+49 -> Pinnacle_Financial_Partners
+
+51 -> Polymetal_International
+
+134 -> Perrigo
+
+300 -> Pearson_plc
+
+361 -> Peloton_Interactive
+
+54 -> Pioneer_Natural_Resources
+
+7116 -> PayPal
+
+1050 -> Papa_John%27s
+
+94 -> Qorvo
+
+827 -> Roblox_Corporation
+
+2805 -> Shell_plc
+
+226 -> Regeneron_Pharmaceuticals
+
+81 -> REV_Group
+
+2 -> R_%26_G_Financial_Corporation
+
+43 -> Republic_Airways_Holdings
+
+391 -> Rocket_Lab
+
+137 -> RealNetworks
+
+504 -> Ross_Stores
+
+714 -> Rolls-Royce_Holdings
+
+688 -> RadioShack
+
+1380 -> Reuters
+
+2984 -> Ryanair
+
+25 -> Ryerson_(company)
+
+586 -> Sinclair_Broadcast_Group
+
+696 -> Sainsbury%27s
+
+4086 -> Starbucks
+
+88 -> SCO_Group
+
+484 -> Silicon_Graphics
+
+34 -> Segro
+
+227 -> Sears_Holdings
+
+91 -> Smiths_Group
+
+96 -> SM_Prime
+
+95 -> Smith_%26_Nephew
+
+401 -> SanDisk
+
+50 -> Sonic_Solutions
+
+352 -> Synopsys
+
+547 -> S%26P_Global
+
+382 -> Staples_Inc.
+
+30 -> Spansion
+
+1087 -> Sun_Microsystems
+
+32 -> American_Outdoor_Brands
+
+148 -> Skyworks_Solutions
+
+467 -> NortonLifeLock
+
+295 -> Sysco
+
+4466 -> Tencent
+
+262 -> 3dfx_Interactive
+
+50 -> Tweeter_(store)
+
+4 -> Thornburg_Mortgage
+
+708 -> THQ
+
+27 -> Titan_Cement
+
+74 -> Tilray
+
+1017 -> Toshiba
+
+75 -> Piraeus_Bank
+
+182 -> Trimble_Inc.
+
+85 -> Trump_Entertainment_Resorts
+
+241 -> T._Rowe_Price
+
+41 -> TerraVia
+
+92 -> Taylor_Wimpey
+
+118 -> 2U_(company)
+
+13775 -> Twitter
+
+50 -> Tweeter_(store)
+
+33 -> UAL_Corporation
+
+383 -> U-Haul
+
+2430 -> Unilever
+
+46 -> Umpqua_Holdings_Corporation
+
+114 -> United_Utilities
+
+603 -> Viacom_(2005%E2%80%932019)
+
+346 -> Volaris
+
+103 -> Verisk_Analytics
+
+3514 -> Volkswagen_Group
+
+257 -> Washington_Mutual
+
+291 -> MCI_Inc.
+
+114 -> Windstream_Holdings
+
+15 -> Cimarex_Energy
+
+247 -> Xcel_Energy
+
+28 -> Acceleron_Pharma
+
+190 -> XPeng
+
+2815 -> Yahoo!
+
+2427 -> Yandex
+
+117 -> Yum_China
+
+112 -> Zimmer_Biomet
+
+156 -> Zebra_Technologies
+
+102 -> Zions_Bancorporation
+
+782 -> Zynga

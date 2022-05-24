@@ -1,0 +1,4 @@
+- Gather Ticker names
+-Transfer names into company
+- get views off of company names
+-compare values from previous checks
